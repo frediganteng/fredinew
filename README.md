@@ -1,18 +1,17 @@
 # ✭ ELITE CRACK
-#### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+#### Dibuat Dengan ❤️ Oleh Dapunta & Fredi
 ```
 Author:
 - Dapunta Khurayra X
-- Muhamad Rizal Fiansyah Id
+- Fredi Maulana Gans
 
 Terimakasih Kepada :
 - Angga Kurniawan - Yayan XD
-- Boy Hamzah      - Latip Harkat
-- Zacky Tricker   - Sutan Ubay
-- Rizky Dev       - Iqbal Dev
-- Aap Afandi      - Fallen
-- Rizky Leviathan - Hanifan
-```
+- Boy Hamzah      - Iqbal Dev
+
+
+
+
 #### ⇨  Fitur Login
 ```
 [✯] Login Cookies  
@@ -42,8 +41,8 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pip install futures
-$ git clone https://github.com/Dapunta/elite
- 
+$ git clone https://github.com/frediganteng/fredinew
+
 ```
 #### ⇨  Menjalankan Script
 ```
